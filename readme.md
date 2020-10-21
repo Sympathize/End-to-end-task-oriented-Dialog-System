@@ -51,6 +51,7 @@ Recent Advances and Challenges in Task-oriented Dialog Systems. **arXiv**. **202
 - **[WMM2Seq]** A Working Memory Model for Task-oriented Dialog Response Generation. **ACL**. **2019**. **[[paper\]](https://www.aclweb.org/anthology/P19-1258.pdf)**
 - **[Dynamic Fusion framework]** Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog. **ACL**. **2020**. **[[paper]](https://arxiv.org/abs/2004.11019)**
 - **[FG2seq]** Fg2seq: Effectively Encoding Knowledge for End-To-End Task-Oriented Dialog. **ICASSP**. **2020**. **[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9053667)**
+- **[GraphDialog]** GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems. **EMNLP.** **2020.** **[[paper]](https://arxiv.org/abs/2010.01447)**
 
 
 
