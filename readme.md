@@ -62,6 +62,8 @@ Recent Advances and Challenges in Task-oriented Dialog Systems. **arXiv**. **202
 
 - **[TSCP]** Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures. **ACL**. **2018**. **[[paper\]](https://www.aclweb.org/anthology/P18-1133.pdf)**
 - **[FSDM]** Flexibly-Structured Model for Task-Oriented Dialogues. **SIGDIAL**. **2019**. **[[paper\]](https://arxiv.org/abs/1908.02402)**
+- End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2. **[[paper]](https://www.aclweb.org/anthology/2020.acl-main.54.pdf)**
+- 
 
 
 
