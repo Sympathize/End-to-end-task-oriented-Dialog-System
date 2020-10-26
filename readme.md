@@ -34,7 +34,7 @@ Recent Advances and Challenges in Task-oriented Dialog Systems. **arXiv**. **202
 
 - **[MemNN]** Memory Networks. **ICLR.** **2015.** **[[paper]](https://arxiv.org/pdf/1410.3916.pdf)**
 - **[MemN2N]** End-To-End Memory Networks. **NIPS**. **2015**. **[[paper]](http://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)**
-- **[CopyNet]** Incorporating Copying Mechanism in Sequence-to-Sequence Learning. **ACL**. **2016**. **[[paper\]
+- **[CopyNet]** Incorporating Copying Mechanism in Sequence-to-Sequence Learning. **ACL**. **2016**. **[[paper]](https://arxiv.org/abs/1603.06393)**
 - **[RGCN]** Modeling Relational Data with Graph Convolutional Networks. **ESWC**. **2018**. **[[paper]](https://arxiv.org/abs/1703.06103)**
 - **[FlowQA]** FlowQA: Grasping flow in history for conversational machine comprehension. **ICLR**. **2019**. **[[paper]](https://arxiv.org/abs/1810.06683)**
 
