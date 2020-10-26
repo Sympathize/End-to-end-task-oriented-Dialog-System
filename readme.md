@@ -4,13 +4,19 @@ Some research in task-oriented dialog system.
 
 ## Datasets
 
-| Dataset       | #Dialogues |
-| ------------- | ---------- |
-| SMD           | 2425       |
-| DSTC2         | 1612       |
-| bAbI          | 5000       |
-| CamRest       | 680        |
-| Multi-WOZ 2.1 | 8438       |
+
+| Metric                  | DSTC2   | SMD     | MultiWOZ  |
+| ----------------------- | ------- | ------- | --------- |
+| # Dialogues             | 1,612   | 2,425   | 8,438     |
+| Total # turns           | 23,354  | 12,732  | 115,424   |
+| Total # tokens          | 199,431 | 121,977 | 1,520,970 |
+| Avg. truns per dialogue | 14.49   | 5.25    | 13.68     |
+| Avg. tokens per turn    | 8.54    | 8.02    | 13.18     |
+| Total unique tokens     | 986     | 2,842   | 24,071    |
+| # Slots                 | 8       | 13      | 25        |
+| # Values                | 212     | 1363    | 4510      |
+
+
 
 ### Papers
 
