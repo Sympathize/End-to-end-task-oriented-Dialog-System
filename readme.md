@@ -53,6 +53,8 @@ Recent Advances and Challenges in Task-oriented Dialog Systems. **arXiv**. **202
 - **[KVRN]** Key-Value Retrieval Networks for Task-Oriented Dialogue. **SIGDIAL**. **2017**. **[[paper\]](https://arxiv.org/abs/1705.05414)**
 - **[KB-InfoBot]** Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access. **ACL**. **2017**. **[[paper]](https://arxiv.org/abs/1609.00777)**
 - **[Mem2Seq]** Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems. **ACL**. **2018**. **[[paper\]](https://arxiv.org/abs/1804.08217)**
+- **[DSR]** Sequence-to-Sequence Learning for Task-oriented Dialogue with Dialogue State Representation. **COLING.** **2018.** **[[paper]](https://www.aclweb.org/anthology/C18-1320/)**
+- **[KB-retriever]** Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever. **EMNLP.** **2019.** **[[paper]](https://www.aclweb.org/anthology/D19-1013/)** 
 - **[GLMP]** Global-to-local Memory Pointer Networks for Task-Oriented Dialogue. **ICLR**. **2019**. **[[paper\]](https://arxiv.org/abs/1901.04713)**
 - **[HMNs]** Task-Oriented Conversation Generation Using Heterogeneous Memory Networks. **EMNLP**. **2019**. **[[paper\]](https://arxiv.org/abs/1909.11287)**
 - **[WMM2Seq]** A Working Memory Model for Task-oriented Dialog Response Generation. **ACL**. **2019**. **[[paper\]](https://www.aclweb.org/anthology/P19-1258.pdf)**
